@@ -1,0 +1,157 @@
+Épico: Compra
+Must have
+US01 
+Como cliente 
+Eu quero/gostaria/devo de escolher os sabores das pizzas 
+Para que eu possa receber em casa as pizzas desejadas 
+ 
+Critérios de aceitação: 
+
+
+US04 
+Como cliente 
+Eu quero/gostaria/devo de visualizar os valores unitários e total das pizzas 
+Para que eu decida realizar ou não a compra 
+ 
+Critérios de aceitação:
+
+
+US07 
+Como cliente 
+Eu quero/gostaria/devo que o app tenha opções de pagamento online 
+Para que eu não precise usar dinheiro em espécie 
+ 
+Critérios de aceitação: 
+
+
+Should have
+
+Could have
+US05 
+Como cliente 
+Eu quero/gostaria/devo saber se há alguma promoção ou combo 
+Para que eu  
+ 
+Critérios de aceitação:
+
+
+US06 
+Como cliente 
+Eu quero/gostaria/devo visualizar as pizzas disponíveis 
+Para que eu tenha uma ideia visual de como elas são antes de comprar 
+ 
+Critérios de aceitação:
+
+
+US12
+Como pizzaria 
+Eu quero/gostaria/devo pôr em destaque as pizzas mais vendidas 
+Para que as vendas aumentem 
+ 
+Critérios de aceitação:
+
+Won’t have
+
+
+Épico: Entrega
+Must have
+US08 
+Como cliente 
+Eu quero/gostaria/devo que o app tenha opções de contato com a pizzaria e o entregador 
+Para que eu possa tirar dúvidas ou fazer reclamações sobre o pedido e a entrega 
+ 
+Critérios de aceitação:
+
+
+US13
+Como pizzaria 
+Eu quero/gostaria/devo ter contato com o entregador 
+Para que  
+ 
+Critérios de aceitação: 
+
+
+US16
+Como motoboy 
+Eu quero/gostaria/devo de saber o destino da entrega 
+Para que 
+ 
+Critérios de aceitação: 
+
+
+US17
+Como motoboy 
+Eu quero/gostaria/devo de saber o valor da comissão 
+Para que eu saiba se vale a pena aceitar a entrega 
+ 
+Critérios de aceitação:
+
+
+Should have
+US02 
+Como cliente 
+Eu quero/gostaria/devo de saber o tempo de entrega 
+Para que eu possa saber em que momento vai chegar o meu pedido 
+ 
+Critérios de aceitação:
+
+
+Could have
+US03 
+Como cliente 
+Eu quero/gostaria/devo de rastrear o meu pedido 
+Para que eu possa saber em que local está o entregador 
+ 
+Critérios de aceitação: 
+Won’t have
+
+
+Épico: Pedidos
+Must have
+Should have
+US10 
+Como cliente 
+Eu quero/gostaria/devo poder visualizar o meu histórico de pedidos 
+Para que eu possa repetir um pedido anterior 
+ 
+Critérios de aceitação:
+
+
+US14
+Como pizzaria 
+Eu quero/gostaria/devo visualizar o histórico de pedidos de todos os clientes 
+Para que  
+ 
+Critérios de aceitação:
+
+
+Could have
+US09 
+Como cliente 
+Eu quero/gostaria/devo de poder registrar comentários sobre os pedidos 
+Para que outros clientes possam visualizar as minhas críticas e recomendações 
+ 
+Critérios de aceitação:
+
+
+US11
+Como pizzaria 
+Eu quero/gostaria/devo de ser avaliado pelos meus clientes 
+Para que eu possa aperfeiçoar os meus serviços/processos 
+ 
+Critérios de aceitação: 
+
+Won’t have
+
+
+Épico: Cadastro
+Must have
+US15
+Como pizzaria 
+Eu quero/gostaria/devo de ter o cadastro dos clientes com informações como telefone ou e-mail 
+Para que eu possa entrar em contato com o cliente e oferecer promoções 
+ 
+Critérios de aceitação:
+Should have
+Could have
+Won’t have
