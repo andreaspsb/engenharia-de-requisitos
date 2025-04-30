@@ -32,3 +32,17 @@ Desistência da compra
 Dado que acesso a página de visualização do valor total
 Quando submeto o formulário informando desistência da compra
 Então devo ser redirecionado para a página de escolha de sabores
+
+
+
+Como cliente 
+Eu quero que o app tenha opções de pagamento online 
+Para que eu não precise usar dinheiro em espécie
+
+Cenários:
+
+Opção de pagamento escolhida
+Dado que acesso a página de escolha de opção de pagamento
+Quando submeto o formulário para dar continuidade ao pagamento
+Então devo ser redirecionado para a página de rastreamento da compra
+
