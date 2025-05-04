@@ -46,3 +46,7 @@ Dado que acesso a página de escolha de opção de pagamento
 Quando submeto o formulário para dar continuidade ao pagamento
 Então devo ser redirecionado para a página de rastreamento da compra
 
+Nenhuma opção de pagamento escolhida
+Dado que acesso a página de escolha de opção de pagamento
+Quando submeto o formulário sem uma opção de pagamento para dar continuidade 
+Então devo ver Escolha pelo menos uma opção de pagamento
