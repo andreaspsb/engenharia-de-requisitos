@@ -50,3 +50,21 @@ Nenhuma opção de pagamento escolhida
 Dado que acesso a página de escolha de opção de pagamento
 Quando submeto o formulário sem uma opção de pagamento para dar continuidade 
 Então devo ver Escolha pelo menos uma opção de pagamento
+
+
+
+Como cliente 
+Eu quero/gostaria/devo de saber o tempo de entrega 
+Para que eu possa saber em que momento vai chegar o meu pedido 
+
+Cenários: 
+
+Entrega feita
+Dado que estou acompanhando o tempo de entega
+quando a entrega chegar
+então devo receber uma notificação sobre a chegada do entregador
+
+Entrega atrasa
+Dado que estou acompanhando o tempo de entega
+quando a entrega atrasar
+então devo receber uma atualização com uma nova previsão de entrega
